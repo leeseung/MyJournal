@@ -1,1 +1,14 @@
 # MyJournal
+
+# 20160711
+
+## 업무내용 
+- 1. unity 프로젝트의 구성 조사 및 Test script 작성 
+- 2. android plugin 연동
+
+
+# 20160712
+
+## 업무내용 
+- Unity 오브젝트의 이벤트처리 조사
+- Android GCM 조사
