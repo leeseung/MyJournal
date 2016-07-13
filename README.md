@@ -20,6 +20,6 @@
    + Android Kernel 의 흐름의 시작 init()
    + JNI (Java Native Interface) , ZYGOTE
 - 2. Handler , Looper의 관계 조사
-    + handlerThread , AsyncThread 
+    + handlerThread , AsyncTask
    
 
